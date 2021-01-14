@@ -1,0 +1,17 @@
+{
+  "auth": [
+    {
+      "code": 200,
+      "message": "Đăng nhập thành công",
+      "data": {
+        "status": true,
+        "first_login": false,
+        "_id": "5fe011f6f40b0000f0002bf3",
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOlwvXC9sb2NhbGhvc3Q6ODAwMFwvYXBpXC9hdXRoXC9nb29nbGVcL2NhbGxiYWNrIiwiaWF0IjoxNjA4NTIwMzUwLCJleHAiOjE2MDg1MjM5NTAsIm5iZiI6MTYwODUyMDM1MCwianRpIjoiZTkxVFhaQTBMNFRhbWVhbCIsInN1YiI6IjVmZTAxMWY2ZjQwYjAwMDBmMDAwMmJmMiIsInBydiI6IjFiZmZiOWRlNjE2ODljNzFmZjg4N2RhODc0YmJkNjg4NTFkOWNlYmUifQ.l2hzJIZQ6J5LIe5P7OU8gJrq09tw8f4GuoAyPKeMYiU",
+        "token_type": "Bearer"
+      },
+      "ts": 1608520350
+    }
+  ]
+
+}

@@ -1,0 +1,89 @@
+.background-header{
+  background-color: #bde1ff !important;
+  .thanks-header{
+    max-width: 90% !important;
+  }
+}
+
+.thanks-footer{
+  background-color: #ffffff !important;
+}
+
+.home-page{
+  margin-top: 0px !important;
+  .container-thanks-home-page{
+    max-width: 100% !important;
+  }
+  .news-feed{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    .drop-button{
+      display: none;
+      .button-left{
+        float: left;
+      }
+      .button-right{
+        float: right;
+      }
+    }
+  }
+}
+
+.thank-people{
+  display: flex;
+}
+
+.side-content{
+  position: fixed;
+  width: 23%;
+  background-color: #fff;
+  height: 100%;
+}
+
+@media (max-width: 992px) {
+  .side-content{
+    display: none;
+  }
+  .home-page{
+    .container-thanks-home-page{
+    }
+    .news-feed{
+      .drop-button{
+        display: block;
+      }
+    }
+  }
+}
+
+.search-partner{
+  width: 90%;
+}
+
+.side-right{
+  padding-bottom: 110px;
+  background-color: #f8f9fa;
+}
+
+.dropdown-thanks-notification{
+  width: 380px !important;
+  .menu-notification{
+    display: flex;
+  }
+}
+
+.thanks-detail{
+  margin-top: 0px !important;
+}
+
+.personal-detail-page{
+  margin-top: 0px !important;
+}
+
+.personal-info{
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  width: 100% !important;
+  .detail-info{
+    display: flex;
+  }
+}
